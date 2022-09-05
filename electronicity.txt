@@ -1,2 +1,2 @@
 TechMahindra is in electronic city
-in bangalore phase 2
+in bangalore phase 2git remote -v
